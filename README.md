@@ -1,5 +1,5 @@
 
-#Clicky
+# Clicky
 
 ## Tools and Tech: React, Bootstrap, Javascript, ES6, JSX, CSS
 
