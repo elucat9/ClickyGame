@@ -1,4 +1,5 @@
-##Clicky
+#Clicky
+
 ## Tools and Tech: React, Bootstrap, Javascript, ES6, JSX, CSS
 
 This is a memory game in which the player must click on an array of 9 images once each in order to win. The player loses if an image is clicked on more than once.
